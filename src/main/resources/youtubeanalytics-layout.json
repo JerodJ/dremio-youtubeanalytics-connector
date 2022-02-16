@@ -1,0 +1,24 @@
+{
+  "sourceType": "YouTubeAnalyticsARP",
+  "metadataRefresh": {
+    "datasetDiscovery": true
+  },
+  "form": {
+    "tabs": [
+      {
+        "name": "General",
+        "isGeneral": true,
+        "sections": [
+          {
+            "name": "YouTubeAnalytics Source",
+            "layout": "row",
+            "elements": [
+                {
+                }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
